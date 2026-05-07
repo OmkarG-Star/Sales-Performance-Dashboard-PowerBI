@@ -34,11 +34,11 @@ KPI	Value
 -Total Customers	793
 
 ## Tools Used
-Power BI
-DAX (Data Analysis Expressions)
-Power Query
-Data Visualization
-Interactive Reporting
+-Power BI
+-DAX (Data Analysis Expressions)
+-Power Query
+-Data Visualization
+-Interactive Reporting
 
 ## Key Insights
 -Generated total sales of ₹2.30M with strong business growth over multiple years.
@@ -77,13 +77,13 @@ Interactive Reporting
 Omkar Gadhave
 
 ## 💡 Skills Demonstrated
-Power BI Dashboard Development
-DAX Calculations
-Business Intelligence
-Data Visualization
-KPI Reporting
-Interactive Dashboard Design
-Analytical Thinking
+-Power BI Dashboard Development
+-DAX Calculations
+-Business Intelligence
+-Data Visualization
+-KPI Reporting
+-Interactive Dashboard Design
+-Analytical Thinking
 
 
 
