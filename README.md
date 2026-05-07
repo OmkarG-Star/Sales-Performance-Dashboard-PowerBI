@@ -7,14 +7,14 @@ Developed an interactive Sales Performance Dashboard using Power BI to analyze s
 
 The dashboard provides a complete overview of business performance including:
 
-Total Sales Analysis
-Total Profit Monitoring
-Total Orders Tracking
-Profit Margin Analysis
-Average Order Value
-Customer Insights
-Product Performance Analysis
-Sales Trend Analysis
+-Total Sales Analysis
+-Total Profit Monitoring
+-Total Orders Tracking
+-Profit Margin Analysis
+-Average Order Value
+-Customer Insights
+-Product Performance Analysis
+-Sales Trend Analysis
 
 ## Features
 - KPI Cards (Sales, Profit, Orders, Customers)
@@ -26,12 +26,12 @@ Sales Trend Analysis
 
 📈 Key KPIs
 KPI	Value
-Total Sales	₹2.30M
-Total Profit	₹286.40K
-Total Orders	5.009K
-Profit Margin	12.47%
-Average Order Value	₹458.61
-Total Customers	793
+-Total Sales	₹2.30M
+-Total Profit	₹286.40K
+-Total Orders	5.009K
+-Profit Margin	12.47%
+-Average Order Value	₹458.61
+-Total Customers	793
 
 ## Tools Used
 Power BI
@@ -41,42 +41,42 @@ Data Visualization
 Interactive Reporting
 
 ## Key Insights
-Generated total sales of ₹2.30M with strong business growth over multiple years.
+-Generated total sales of ₹2.30M with strong business growth over multiple years.
 
-Technology category contributed highest overall profit.
+-Technology category contributed highest overall profit.
 
-Identified top-performing products driving maximum sales revenue.
+-Identified top-performing products driving maximum sales revenue.
 
-Average order value reached ₹458.61 across all transactions.
+-Average order value reached ₹458.61 across all transactions.
 
-Sales trend analysis showed continuous growth from 2015 to 2017.
+-Sales trend analysis showed continuous growth from 2015 to 2017.
 
-Interactive filters enabled detailed regional and category-wise analysis.
+-Interactive filters enabled detailed regional and category-wise analysis.
 
 
 
-🎯 Business Value
+## 🎯 Business Value
 
-This dashboard helps businesses:
+-This dashboard helps businesses:
 
-Track overall sales performance
+-Track overall sales performance
 
-Monitor profitability
+-Monitor profitability
 
-Analyze customer purchasing behavior
+-Analyze customer purchasing behavior
 
-Identify high-performing products
+-Identify high-performing products
 
-Support data-driven business decisions
+-Support data-driven business decisions
 
 ## Dashboard Preview
 <img width="1294" height="734" alt="Dashboard" src="https://github.com/user-attachments/assets/0d9a1ca7-dcc2-4d59-961f-cbf10113bf0f" />
 
-👨‍💻 Developed By
+## 👨‍💻 Developed By
 
 Omkar Gadhave
 
-💡 Skills Demonstrated
+## 💡 Skills Demonstrated
 Power BI Dashboard Development
 DAX Calculations
 Business Intelligence
