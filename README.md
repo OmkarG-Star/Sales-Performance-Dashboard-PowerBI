@@ -42,20 +42,31 @@ Interactive Reporting
 
 ## Key Insights
 Generated total sales of ₹2.30M with strong business growth over multiple years.
+
 Technology category contributed highest overall profit.
+
 Identified top-performing products driving maximum sales revenue.
+
 Average order value reached ₹458.61 across all transactions.
+
 Sales trend analysis showed continuous growth from 2015 to 2017.
+
 Interactive filters enabled detailed regional and category-wise analysis.
+
+
 
 🎯 Business Value
 
 This dashboard helps businesses:
 
 Track overall sales performance
+
 Monitor profitability
+
 Analyze customer purchasing behavior
+
 Identify high-performing products
+
 Support data-driven business decisions
 
 ## Dashboard Preview
